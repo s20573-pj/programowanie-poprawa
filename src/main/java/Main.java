@@ -6,3 +6,4 @@ public class Main {
         System.out.println("Suma sprzedanych produktów = " + serwis.getSoldProductsReport());
     }
 }
+

@@ -18,3 +18,4 @@ public class Product {
     }
     public BigDecimal getPrize(){return  productPrize;}
 }
+
